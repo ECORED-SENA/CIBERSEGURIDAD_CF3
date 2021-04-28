@@ -176,7 +176,7 @@ export const referencias = [
   {
     referencia:
       'SGSI - 08 Análisis y valoración de riesgos. Metodologías. (2010, 12 mayo). [Vídeo]. YouTube.',
-    link: 'https://www.youtube.com/watch?v=g7EPuzN5Aw',
+    link: 'https://www.youtube.com/watch?v=g7EPuzN5Awg',
   },
   {
     referencia:
